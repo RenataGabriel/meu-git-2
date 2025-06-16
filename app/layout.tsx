@@ -1,10 +1,16 @@
-import type { Metadata } from 'next'
-import './globals.css'
+import type React from "react"
+import type { Metadata } from "next"
+import { Inter } from "next/font/google"
+import "./globals.css"
+import { ThemeProvider } from "@/components/theme-provider"
+import { UserProvider } from "@/contexts/user-context"
+
+const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: "Dashboard",
+  description: "Dashboard with theme customization",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -13,8 +19,12 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body className={inter.className}>
+        <ThemeProvider>
+          <UserProvider>{children}</UserProvider>
+        </ThemeProvider>
+      </body>
     </html>
   )
 }

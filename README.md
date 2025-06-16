@@ -1,9 +1,9 @@
-# React welcome page
+# Open in v0
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/renatacri02-gmailcoms-projects/v0-react-welcome-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/Ze2lYFADu3P)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/gatranis-projects/v0-open-in-v0)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hpRpfp4K1B5)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/renatacri02-gmailcoms-projects/v0-react-welcome-page](https://vercel.com/renatacri02-gmailcoms-projects/v0-react-welcome-page)**
+**[https://vercel.com/gatranis-projects/v0-open-in-v0](https://vercel.com/gatranis-projects/v0-open-in-v0)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/Ze2lYFADu3P](https://v0.dev/chat/projects/Ze2lYFADu3P)**
+**[https://v0.dev/chat/projects/hpRpfp4K1B5](https://v0.dev/chat/projects/hpRpfp4K1B5)**
 
 ## How It Works
 
